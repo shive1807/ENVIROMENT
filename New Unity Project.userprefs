@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="New Unity Project.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\DELL\Desktop\C_Sharpe\script\Assets\script\client.cs">
+    <Files>
+      <File FileName="Assets\walk.cs" Line="20" Column="37" />
+      <File FileName="C:\Users\DELL\Desktop\C_Sharpe\script\Assets\script\client.cs" Line="87" Column="6" />
+      <File FileName="C:\Users\DELL\Desktop\C_Sharpe\script\Assets\Standard Assets\Characters\FirstPersonCharacter\RaycastShootComplete.cs" Line="91" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
